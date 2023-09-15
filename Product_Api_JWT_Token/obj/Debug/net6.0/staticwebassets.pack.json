@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\Upload\\product\\Book\\Book.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\Book\\Book.jpg"
+    },
+    {
+      "Id": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\Upload\\product\\Pen\\Pen.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\Pen\\Pen.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Product_Api_JWT_Token.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Product_Api_JWT_Token.props",
+      "PackagePath": "build\\Product_Api_JWT_Token.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Product_Api_JWT_Token.props",
+      "PackagePath": "buildMultiTargeting\\Product_Api_JWT_Token.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Product_Api_JWT_Token.props",
+      "PackagePath": "buildTransitive\\Product_Api_JWT_Token.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

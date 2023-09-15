@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "uNEaotm+45B5etK6Qlg/87N9BCLqlogr56CrQvANVcg=",
+  "Source": "Product_Api_JWT_Token",
+  "BasePath": "_content/Product_Api_JWT_Token",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Product_Api_JWT_Token\\wwwroot",
+      "Source": "Product_Api_JWT_Token",
+      "ContentRoot": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\",
+      "BasePath": "_content/Product_Api_JWT_Token",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\Upload\\product\\Book\\Book.jpg",
+      "SourceId": "Product_Api_JWT_Token",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\",
+      "BasePath": "_content/Product_Api_JWT_Token",
+      "RelativePath": "Upload/product/Book/Book.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\Book\\Book.jpg"
+    },
+    {
+      "Identity": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\Upload\\product\\Pen\\Pen.jpg",
+      "SourceId": "Product_Api_JWT_Token",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Khushboo\\ASP.Net Core\\Product_Api_JWT_Token\\Product_Api_JWT_Token\\wwwroot\\",
+      "BasePath": "_content/Product_Api_JWT_Token",
+      "RelativePath": "Upload/product/Pen/Pen.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\Pen\\Pen.jpg"
+    }
+  ]
+}
